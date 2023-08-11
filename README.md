@@ -1,4 +1,5 @@
-<h1 align="center">Hello World 👋🌐, I'm Zośka</h1>
+<h1 align="center">Hello World 👋🌐, I'm Zośka!</h1>
+<h2 align="center">Net Sys Admin + Pentester + Dev</h2>
 <h3 align="center">A passionate Computer Scientist from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlaruskov&label=Profile%20views&color=0e75b6&style=flat" alt="zlaruskov" /> </p>
