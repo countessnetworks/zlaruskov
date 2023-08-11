@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlaruskov&label=Profile%20views&color=0e75b6&style=flat" alt="zlaruskov" /> </p>
 
-- 🔭 I’m currently working on [Hyena Tech](https://hyena-tech.com)
+- 🔭 I’m currently working on [Hyena Tech](https://hyena-tech.com).
 
-- 🌱 I’m currently learning **Bash, Python and Go**
+- 🌱 I’m currently learning **Bash, Python and Go**.
 
-- 👨‍💻 All of my projects are available at [https://sophie-richard.tech](https://sophie-richard.tech)
+- 👨‍💻 All of my projects are available at [https://sophie-richard.tech](https://sophie-richard.tech).
 
 - 📫 How to reach me **zlaruskov@gmail.com**
 
