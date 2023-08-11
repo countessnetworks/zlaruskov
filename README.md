@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋🌐, I'm Zośka!</h1>
+<h1 align="center"> 👋🌐 Hello World, I'm Zośka!</h1>
 <h2 align="center">Net Sys Admin + Pentester + Dev</h2>
 <h3 align="center">A passionate Computer Scientist from Canada 🍁</h3>
 
