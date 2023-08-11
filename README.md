@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sophie-richard.tech](https://sophie-richard.tech).
 
-- 📫 Reach me **zlaruskov@sophie-richard.tech**
+- 📫 Reach me **zlaruskov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
